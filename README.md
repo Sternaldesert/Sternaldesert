@@ -18,7 +18,7 @@ I'm a passionate about digital media with experience in photography, digital art
 
 ### [CodeOrCreate 2025 LTD Website]([project_1_link](https://github.com/Sternaldesert/CodeOrCreate_LTD_2025))
 
-The **CodeOrCreate 2025 Website** was a programming challenge about encouraging others to use public transportation. This website was built with Bootstrap. This project demonstrates my ability to work under pressure and deliver professional products. You can check out the repository [here] (https://github.com/Sternaldesert/CodeOrCreate_LTD_2025).
+The **CodeOrCreate 2025 Website** was a programming challenge about encouraging others to use public transportation. This website was built with Bootstrap. This project demonstrates my ability to work under pressure and deliver professional products. You can check out the repository [here](https://github.com/Sternaldesert/CodeOrCreate_LTD_2025).
 
 ## Get in Touch 📱
 
